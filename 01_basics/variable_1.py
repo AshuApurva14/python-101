@@ -55,3 +55,5 @@ print(unique_numbers)
 
 empty = None
 print(empty)
+
+print("All variables are defined successfully!        Done", end="\n")
