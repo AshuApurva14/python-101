@@ -1,4 +1,4 @@
-# Program to show Commutative Property of Addition
+# Commutative Property of Addition
 # Take two numbers as input from the user
 
 # Show the results of the Commutative Property of Addition
