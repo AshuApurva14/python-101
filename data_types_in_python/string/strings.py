@@ -47,3 +47,33 @@ print(str4)
 
 # String concatenation (+)
 
+str5="Rakesh"
+str6="Kumar"
+
+print(str5 +" "+ str6)
+
+# String slicing
+
+str7="Anyone can"
+str8="I can"
+
+print(str7[3] + str8[2])
+
+print(str7[:])
+
+
+# Square bracket with different values indicates 
+
+# [1:4:2] Here 1- indicates Start index of string
+#              4 - Indicates Stop index (n-1)
+#              2 - Indicates Step 
+
+str9="Freedom"
+print(str9[1:5:1])
+
+
+# There can diff scenarios as well 
+# [:6:1], [0:5:], [:], [0::0]
+
+str10="India"
+print(str10[:])
