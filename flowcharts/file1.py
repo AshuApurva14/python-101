@@ -1,0 +1,3 @@
+# Print output
+
+print("Flowchart")
